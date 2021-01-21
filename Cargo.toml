@@ -1,0 +1,15 @@
+[package]
+name = "array-dump"
+version = "0.1.0"
+authors = ["jerryo <jerry.oneal@samtec.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+pnet = "0.27.2"
+local-ip = "0.1"
+ipnet = "2.3.0"
+dns-lookup = "1.0.5"
+hex="0.4.2"
+
